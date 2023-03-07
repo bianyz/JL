@@ -57,16 +57,15 @@ main: #简历主要内容，
   - title: 培训经历
     sub: 永安期货山东分公司
     duration: "2021年7月 - 2021年8月"
-    tags:
     summary: 永安新星新星成长计划
-    detail: 了解证、期货、基金券行业基本情况，学习不同行业的分析框架，对宏观经济、量化交易、国际贸易等内容进行专题培训。学习了农业、黑色产业、能源化工产业的分析框架与现状，了解了行业特点和各自的周期性。学习了不同类型的技术分析方式，对期权组合、货币视角有了更深的认识。
+    detail: 了解证券、期货、基金券行业基本情况，学习不同行业的分析框架，对宏观经济、量化交易、国际贸易等内容进行专题培训。学习了农业、黑色产业、能源化工产业的分析框架与现状，了解了行业特点和各自的周期性。学习了不同类型的技术分析方式，对期权组合、货币视角有了更深的认识。
     # open: open
     #可以设置open默认展开
 
 - type: projects
-  name: Projects
+  name: 项目经历
   content:
-  - title: 项目
+  - title: 开放实验
     duration: 2020年3月 - 2020年6月
     detail: 装配式建筑在线销售平台
     sub: 设备接入、仓储实现
@@ -106,10 +105,10 @@ footer: #脚注多组
   screen:
   - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "边易洲"
+    href: "https://github.com/bianyz"
 
 #页面额外js脚本，如xx统计
-scripts:
+#scripts:
 #- src: "assets/js/resume.js"
 #  defer: defer #可以设置defer或者sync异步加载
