@@ -4,8 +4,8 @@
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en  表示英语
 name: "边易洲"
-jobtitle: "求职意向" #可空不显示
-photo: "assets/img/photo.jpg" #照片可空，不显示
+jobtitle:  #可空不显示
+photo: "assets/img/selfGraph.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -49,9 +49,9 @@ main: #简历主要内容，
     sub: 杭州智君科技
     duration: "2022年7月 - 2022年8月"
     tags:
-    - 数据处理
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    - 产品部
+    summary: 数据处理
+    detail: 在flask框架中使用polars对数据进行批量处理并计算指标。对计算出的指标数据进行筛选，对于异常值进行记录、归类，通过邮件示警。最终数据导入数据浏览器，作为组件组件嵌入在线平台
     # open: open
     #可以设置open默认展开
 
