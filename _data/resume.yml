@@ -9,14 +9,14 @@ photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "yz.bian@eqq.com" #文本内容
-  href: 'mailto:yi.bian@qq.com' #链接，无链接则空  
+- text: "yz.bian@qq.com" #文本内容
+  href:  #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "15314659098"
   href: 'tel:15314659098'
   icon: 'icons/phone.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
+- text: "bianyz"
+  href: 'https://github.com/bianyz'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
@@ -28,13 +28,9 @@ main: #简历主要内容，
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 山东建筑大学
-    duration: "2019年x月 - 2023年"
+    duration: "2019年 - 2023年"
     sub: 本科
     detail: 信息管理与信息系统学士学位
-  - title: Shandong Jianzhu University
-    duration: Aug 2007 - Jun 2011
-    sub: bachelor 
-    detail: Bachelor of Infomation Management and Infomation System.
 
 - type: skills
   # name: "技能"
@@ -45,28 +41,19 @@ main: #简历主要内容，
     - C
     - Java
     - Python
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
 
 - type: experience
   name: 经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 实习经历
+    sub: 杭州智君科技
+    duration: "2022年7月 - 2022年8月"
     tags:
-    - 标签
+    - 数据处理
     summary: 职务或者工作总结(自动折叠)
     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
   name: Projects
