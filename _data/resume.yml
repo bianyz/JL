@@ -66,12 +66,12 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 项目经历
+  - title: 项目
     duration: 2020年3月 - 2020年6月
     detail: 装配式建筑在线销售平台
     sub: 设备接入、仓储实现
   - title: 装配式建筑在线销售平台
-    summary: Projects' introduction or summary
+    summary: RFID设备的接入与仓储功能的实现
     detail:
       md: _data/demo.md
     sub: Creator and maintainer.
