@@ -65,8 +65,8 @@ main: #简历主要内容，
 - type: projects
   name: 项目经历
   content:
-    duration: 2020年3月 - 2020年6月
   - title: 装配式建筑在线销售平台
+    duration: 2020年3月 - 2020年6月
     sub: 开放实验
     summary: RFID设备的接入与仓储功能的实现
     detail:
