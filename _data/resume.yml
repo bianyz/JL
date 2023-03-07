@@ -55,9 +55,6 @@ main: #简历主要内容，
     # open: open
     #可以设置open默认展开
     
-- type: experience
-  name: 经验
-  content:
   - title: 培训经历
     sub: 永安期货山东分公司
     duration: "2021年7月 - 2021年8月"
