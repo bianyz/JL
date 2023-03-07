@@ -40,7 +40,7 @@ main: #简历主要内容，
     - Java
     - Pythhon
     - C#
-   -list :
+    list :
      - Java  Spring Boot,Vue
      - Python  Flask, TensorFlow
      - DB  MySql, SQLServer, Hbase
