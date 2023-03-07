@@ -38,9 +38,9 @@ main: #简历主要内容，
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - 汉语
-    - C
     - Java
-    - Python
+    - Pythhon
+    - C#
 
 - type: experience
   name: 经验
@@ -60,7 +60,8 @@ main: #简历主要内容，
     tags:
     - 
     summary: 永安新星新星成长计划
-    detail: 了解证、期货、基金券行业基本情况，学习不同行业的分析框架，对宏观经济、量化交易、国际贸易等内容进行专题培训。学习了农业、黑色产业、能源化工产业的分析框架与现状，了解了技术分析方式
+    detail: 了解证、期货、基金券行业基本情况，学习不同行业的分析框架，对宏观经济、量化交易、国际贸易等内容进行专题培训。学习了农业、黑色产业、能源化工产业的分析框架与现状，
+    了解了行业特点和各自的周期性。学习了不同类型的技术分析方式，对期权组合、货币视角有了更深的认识。
     # open: open
     #可以设置open默认展开
 
@@ -69,9 +70,9 @@ main: #简历主要内容，
   content:
   - title: 项目经历
     duration: 2020年3月 - 2020年6月
-    detail: 项目和工作介绍，项目总结.装配式建筑物流管理系统
+    detail: 装配式建筑在线销售平台
     sub: 设备接入、仓储实现
-  - title: Project Name
+  - title: 装配式建筑在线销售平台
     summary: Projects' introduction or summary
     detail:
       md: _data/demo.md
