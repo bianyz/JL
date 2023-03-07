@@ -36,10 +36,10 @@ main: #简历主要内容，
   name: 技能
   content:
   - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - Java
-    - Pythhon
-    - C#
+    #items: #itmems 可以小块的方式显示
+    #- Java
+    #- Pythhon
+    #- C#
     list :
      - Java  Spring Boot,Vue
      - Python  Flask, TensorFlow
@@ -99,9 +99,9 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: “简历来源”
+  - text: 简历来源
   #   href: '/'
-  - text: “边易洲”
+  - text: 边易洲
     href: "https://github.com/bianyz"
 
 #页面额外js脚本，如xx统计
