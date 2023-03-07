@@ -40,6 +40,11 @@ main: #简历主要内容，
     - Java
     - Pythhon
     - C#
+   -list :
+     - Java  Spring Boot,Vue
+     - Python  Flask, TensorFlow
+     - DB  MySql, SQLServer, Hbase
+     - C#  .net framework
 
 - type: experience
   name: 经验
@@ -94,7 +99,7 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
+  - text: 简历来源
   #   href: '/'
   - text: "边易洲"
     href: "https://github.com/bianyz"
